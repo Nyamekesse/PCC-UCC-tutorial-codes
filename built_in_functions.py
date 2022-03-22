@@ -30,7 +30,6 @@ words = "When ever coding make to sure to get a cup of coffee"
 print("Enter your name here: ")
 ans = input()  # storing the value the user entered inside a variable called ans
 
-print(
-    "this is what you typed " + ans)  # the value stored in the variable then gets printed out together with some string
+print("this is what you typed " + ans)  # the value stored in the variable then gets printed out together with some string
 
 print("hello worlds")
